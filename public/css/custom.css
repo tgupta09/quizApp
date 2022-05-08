@@ -1,0 +1,4 @@
+.quiz-main-div, .quiz-about-us, .quiz-contact-us{
+    border: 5px solid black;
+    border-radius: 10px;
+}
